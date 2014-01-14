@@ -1,0 +1,12 @@
+bin
+lib
+include
+_build
+*.pyc
+*.swp
+.DS_Store
+.pydevproject
+.project
+.settings
+
+
