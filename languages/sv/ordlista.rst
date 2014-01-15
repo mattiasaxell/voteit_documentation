@@ -6,6 +6,6 @@ Ordlista
 .. glossary::
   :sorted:
    
-  Möte
+  Exempel
     
     Hej hej

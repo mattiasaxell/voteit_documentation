@@ -20,8 +20,7 @@ Manual pages
 * User manual
 
   * English
-  * Svenska
-
+  * `Svenska <http://voteit.readthedocs.org/projects/anvandarmanual/sv/latest/>`_
 
 For information on how to contribute and build these documentation pages from source yourself:
 
