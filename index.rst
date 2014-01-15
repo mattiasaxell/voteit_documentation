@@ -6,8 +6,26 @@
 Welcome to VoteIT's documentation!
 ==================================
 
-Contents:
+This is an index and overview over available documentation. Please note that all documentation might not be available in all languages.
+
+For contact information, please see the VoteIT website. (Mainly in Swedish though)
+`<http://www.voteit.se/>`_ 
+
+
+.. _manual_pages:
+
+Manual pages
+------------
+
+* User manual
+
+  * English
+  * Svenska
+
+
+For information on how to contribute and build these documentation pages from source yourself:
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 0
 
+    README
