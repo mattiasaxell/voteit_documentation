@@ -7,7 +7,7 @@ En snabbgenomgång av funktionerna för att skapa ett möte.
 Behöver du ett möte?
 --------------------
 
-Om du inte redan är moderator för ett möte så behöver ett skapas. Bara administratörer för VoteIT-servrar kan i nuläget skapa möten.
+Om du inte redan är moderator för ett möte så behöver ett skapas. Bara administratörer för VoteIT-servrar kan i normalfallet skapa möten.
 Är du administratör finns alternativet **lägg till** i vänsterkolumnen.
 
 Observera att möten kan skapas utifrån gamla möten. På så sätt kan mycket arbete sparas in med inbjudningar och dylikt.
