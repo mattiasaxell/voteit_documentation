@@ -6,10 +6,18 @@
 VoteIT användarmanual
 =====================
 
+
+.. warning::
+
+    Dokumentationen är under uppbyggnad
+
+.. image:: ../../images/voteit_logo.png
+   :align: right
+
 Innehåll:
 
 .. toctree::
-    :maxdepth: 0
+   :maxdepth: 1
 
-    lathund_moderator/index
-    ordlista
+   lathund_moderator/index
+   ordlista

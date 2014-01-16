@@ -13,8 +13,8 @@ Om du inte redan är moderator för ett möte så behöver ett skapas. Bara admi
 Observera att möten kan skapas utifrån gamla möten. På så sätt kan mycket arbete sparas in med inbjudningar och dylikt.
 
 
-Publikt eller slutet möte
--------------------------
+Publikt eller slutet möte - :term:`accesspolicy`
+------------------------------------------------
 
 Som standard måste deltagarna ha inbjudan för att vara med i möte. Är du nöjd med det, hoppa till nästa sektion.
 
@@ -27,7 +27,6 @@ Om deltagarna ska kunna komma in i mötet själva:
 
 Alla med länken till mötet kan nu komma in i det och få de rättigheter du specificerat.
 
-
 Redigera mötets förstasida och publika presentation
 ---------------------------------------------------
 
@@ -38,8 +37,8 @@ eller
 * Menyn **inställningar** > **Mötespresentation**
 
 
-Skapa dagordning
-----------------
+Skapa :term:`dagordning`
+------------------------
 
 I vänstermeny finns knappen **Ändra dagordning**. Du kan nu använda en standarddagordning eller lägga till punkterna själv.
 Utöver de vanliga årsmötespunkterna kan digitala årsmöten använda lite extra punkter. Det är ingen nackdel att ha saker som:

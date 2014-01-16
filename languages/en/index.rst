@@ -4,11 +4,20 @@
    contain the root `toctree` directive.
 
 
-Welcome to VoteIT's documentation!
-==================================
+VoteIT user documentation
+=========================
+
+.. warning::
+
+    Documentation in progress!
+
+.. image:: ../../images/voteit_logo.png
+   :align: right
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
 
+   quickstart_moderator/index
+   glossary

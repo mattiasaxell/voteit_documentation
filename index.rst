@@ -6,6 +6,9 @@
 Welcome to VoteIT's documentation!
 ==================================
 
+.. image:: images/voteit_logo.png
+   :align: right
+
 This is an index and overview over available documentation. Please note that all documentation might not be available in all languages.
 
 For contact information, please see the VoteIT website. (Mainly in Swedish though)
