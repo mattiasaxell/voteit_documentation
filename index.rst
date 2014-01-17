@@ -20,7 +20,7 @@ For contact information, please see the VoteIT website. (Mainly in Swedish thoug
 User manual
 ===========
 
-* `English <http://http://voteit-user-manual.readthedocs.org>`_
+* `English <http://voteit-user-manual.readthedocs.org>`_
 * `Svenska <http://voteit-anvandarmanual.readthedocs.org>`_
 
 Technical and development manual
