@@ -1,0 +1,15 @@
+language: python
+
+python:
+  - 2.7
+
+install:
+  - easy_install Sphinx
+
+script:
+  - sphinx-build -WT -b html . _build
+  - cd languages/en
+  - sphinx-build -WT -b html . _build
+  - cd ../sv
+  - sphinx-build -WT -b html . _build
+
