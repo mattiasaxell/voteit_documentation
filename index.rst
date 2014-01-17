@@ -20,8 +20,8 @@ For contact information, please see the VoteIT website. (Mainly in Swedish thoug
 User manual
 ===========
 
-* `English <http://voteit-user-manual.readthedocs.org>`_
-* `Svenska <http://voteit-anvandarmanual.readthedocs.org>`_
+* `English <http://voteit-user-manual.readthedocs.org>`__
+* `Svenska <http://voteit-anvandarmanual.readthedocs.org>`__
 
 Technical and development manual
 ================================
@@ -30,7 +30,7 @@ Contains installation instructions, tehcnical information, how to contribute etc
 Basically everything you need to know if you want to understand the code and what's
 going on. :)
 
-* `English <http://voteit-dev.readthedocs.org>`_
+* `English <http://voteit-dev.readthedocs.org>`__
 
 Extensions and plugins for VoteIT
 =================================
