@@ -21,7 +21,11 @@ You'll also need make, or run the sphinx commands by hand.
 
 
 2. Build the documentation you'd like to work with. Each is located in it's respective directory.
-There will be a Makefile present in the one you'll use. Simply run:
+There will be a Makefile present in the one you'll use.
+
+The root of this repository is the manual main page. Check under languages for each specific language.
+
+Simply run:
 
 .. code-block:: bash
 
