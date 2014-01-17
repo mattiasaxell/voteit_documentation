@@ -17,17 +17,30 @@ For contact information, please see the VoteIT website. (Mainly in Swedish thoug
 
 .. _manual_pages:
 
-Manual pages
-------------
+User manual
+===========
 
-* User manual
+* `English <http://http://voteit-user-manual.readthedocs.org>`_
+* `Svenska <http://voteit-anvandarmanual.readthedocs.org>`_
 
-  * `English <http://http://voteit-user-manual.readthedocs.org>`_
-  * `Svenska <http://voteit-anvandarmanual.readthedocs.org>`_
+Technical and development manual
+================================
 
-For information on how to contribute and build these documentation pages from source yourself:
+Contains installation instructions, tehcnical information, how to contribute etc.
+Basically everything you need to know if you want to understand the code and what's
+going on. :)
+
+* `English <http://voteit-dev.readthedocs.org>`_
+
+Extensions and plugins for VoteIT
+=================================
+
+
+
+About
+=====
 
 .. toctree::
-    :maxdepth: 0
+    :maxdepth: 1
 
     README

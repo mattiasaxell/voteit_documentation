@@ -1,7 +1,7 @@
 .. _readme:
 
-VoteIT project user documentation
-=================================
+README: building VoteIT project user documentation
+==================================================
 
 
 This is instructions for building the documentation. If you're a regular user and just want to read the manual,
