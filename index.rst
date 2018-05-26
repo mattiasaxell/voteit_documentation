@@ -26,7 +26,7 @@ User manual
 Technical and development manual
 ================================
 
-Contains installation instructions, tehcnical information, how to contribute etc.
+This manual contains installation instructions, technical information, how to contribute to the code etc.
 Basically everything you need to know if you want to understand the code and what's
 going on. :)
 

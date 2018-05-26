@@ -5,7 +5,7 @@ README: building VoteIT project user documentation
 
 
 This is instructions for building the documentation. If you're a regular user and just want to read the manual,
-go back to: #TODO XXX
+go back to the `VoteIT manual on ReadTheDocs <https://voteit.readthedocs.io/en/latest/>`_.
 
 How to install and build a local environment.
 You'll need python 2.7 or similar and have setuptools + virtualenv installed.
