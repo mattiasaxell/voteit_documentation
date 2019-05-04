@@ -20,4 +20,5 @@ Innehåll:
    :maxdepth: 1
 
    lathund_moderator/index
+   lathund_anvandare/index
    ordlista
